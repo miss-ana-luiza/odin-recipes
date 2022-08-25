@@ -1,3 +1,3 @@
 # odin-recipes
 html exercises 
-teste de aprendizado html
+Olá! Esse é um teste de aprendizado html proposto pelo Odin Project.
